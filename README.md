@@ -1,15 +1,14 @@
 # Siddharth
 My Profile
 <h1 align="center">Hi 👋, I'm Siddharth Mishra</h1>
-<h3 align="center">Aspiring Full-Stack Developer | DSA Explorer | AI Tools Enthusiast</h3>
+<h3 align="center"> Full-Stack Developer | DSA Explorer | AI Tools Enthusiast</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m currently working on **Full-Stack Projects & improving my DSA**
-- 🔭 Building GenAI and real-world problem-solving projects
+- 🔭 Focused on creating impactful projects & mastering web development
 - 💬 Ask me about **MERN Stack, JavaScript, C++, and using AI tools for productivity**
-- 📫 How to reach me: **[your-email@example.com]**
-- ⚡ Fun fact: I use ChatGPT as my coding buddy 😄
+- 📫 How to reach me: **[siddharth140705@gmail.com]**
 
 ---
 
@@ -18,7 +17,9 @@ My Profile
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
@@ -29,10 +30,20 @@ My Profile
 
 Here are some projects I’m proud of:
 
-- 🎨 **Pinterest Clone** – Full-stack clone using cookies for auth, multer for image posting, and MongoDB  
-- 🧠 **Sukoon AI** – Mental health companion powered by AI  
-- 🌾 **Mitra** – Smart AI assistant for farmers with weather alerts, market prices & more  
-- 📚 **VidyaVerse** – AI-powered education platform with learning assistant, mood detection & gamified assessments
+- 🔐 **PassOp – Password Manager**  
+  Store and manage your passwords securely in one place. Built with Express.js and MongoDB.
+
+- ☕ **GetMeAChai – Buy Me A Coffee Clone**  
+  A Next.js-powered donation app where creators can receive support (chai instead of coffee!)
+
+- 🎨 **Pinterest Clone**  
+  Full-stack clone with cookie-based authentication, multer for image upload, and MongoDB.
+
+- 🧠 **Sukoon AI – Mental Health Assistant**  
+  AI chatbot and companion for managing mental well-being.
+
+- 🌾 **Mitra – AI Assistant for Farmers**  
+  Provides weather alerts, market prices, crop guidance, and more.
 
 Want to collaborate? Just drop a message!
 
@@ -49,9 +60,9 @@ Want to collaborate? Just drop a message!
 
 ### 📫 Connect With Me
 
-- 📧 Email: [your-email@example.com]  
-- 💼 LinkedIn: [Add your LinkedIn link here]  
-- 🌐 Portfolio: (Coming Soon...)
+- 📧 Email: [siddharth140705@gmail.com]  
+- 💼 LinkedIn: [https://www.linkedin.com/in/siddharth-mishra-a5250927a/]  
+- 🌐 Portfolio: [https://my-portfolio-siddharth.vercel.app/]
 
 ---
 
