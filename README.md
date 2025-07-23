@@ -5,7 +5,7 @@ My Profile
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently working on **Full-Stack Projects & improving my DSA**
+- 🌱 Working on real-world Full-Stack Projects & sharpening my DSA skills through consistent practice
 - 🔭 Focused on creating impactful projects & mastering web development
 - 💬 Ask me about **MERN Stack, JavaScript, C++, and using AI tools for productivity**
 - 📫 How to reach me: **[siddharth140705@gmail.com]**
